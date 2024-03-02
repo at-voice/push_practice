@@ -1,0 +1,89 @@
+2024-03-02 04:28:02.454 [info] Extension host with pid 751 started
+2024-03-02 04:28:02.648 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2024-03-02 04:28:02.654 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-03-02 04:28:02.657 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2024-03-02 04:28:02.658 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2024-03-02 04:28:02.660 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-03-02 04:28:02.662 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-03-02 04:28:04.872 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2024-03-02 04:28:04.876 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2024-03-02 04:28:04.877 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2024-03-02 04:28:04.902 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2024-03-02 04:28:04.905 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2024-03-02 04:28:06.339 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onWalkthrough:dockerStart'
+2024-03-02 04:28:07.345 [warning] Using default string since no string found in i18n bundle that has the key: Learn more
+2024-03-02 04:28:07.440 [warning] Using default string since no string found in i18n bundle that has the key: Yes
+2024-03-02 04:28:07.444 [warning] Using default string since no string found in i18n bundle that has the key: No
+2024-03-02 04:28:07.444 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2024-03-02 04:28:07.444 [warning] Using default string since no string found in i18n bundle that has the key: Delete
+2024-03-02 04:28:07.444 [warning] Using default string since no string found in i18n bundle that has the key: Don't warn again
+2024-03-02 04:28:07.444 [warning] Using default string since no string found in i18n bundle that has the key: Skip for now
+2024-03-02 04:28:07.444 [warning] Using default string since no string found in i18n bundle that has the key: Upload
+2024-03-02 04:28:07.444 [warning] Using default string since no string found in i18n bundle that has the key: Always upload
+2024-03-02 04:28:07.444 [warning] Using default string since no string found in i18n bundle that has the key: Don't upload
+2024-03-02 04:28:07.444 [warning] Using default string since no string found in i18n bundle that has the key: Report an issue
+2024-03-02 04:28:07.579 [warning] Using default string since no string found in i18n bundle that has the key: "registerUIExtensionVariables" must be called before using the vscode-azureextensionui package.
+2024-03-02 04:28:07.600 [warning] Using default string since no string found in i18n bundle that has the key: This operation is not supported.
+2024-03-02 04:28:07.767 [warning] Using default string since no string found in i18n bundle that has the key: Load More...
+2024-03-02 04:28:08.153 [warning] Using default string since no string found in i18n bundle that has the key: Use a Dockerfile
+2024-03-02 04:28:08.153 [warning] Using default string since no string found in i18n bundle that has the key: Use .NET SDK
+2024-03-02 04:28:08.154 [warning] Using default string since no string found in i18n bundle that has the key: No grouping
+2024-03-02 04:28:08.154 [warning] Using default string since no string found in i18n bundle that has the key: Sort by newest
+2024-03-02 04:28:08.154 [warning] Using default string since no string found in i18n bundle that has the key: Sort alphabetically by label
+2024-03-02 04:28:08.155 [warning] Using default string since no string found in i18n bundle that has the key: Value used to associate containers launched by a 'docker-compose up' command
+2024-03-02 04:28:08.155 [warning] Using default string since no string found in i18n bundle that has the key: Individual Containers
+2024-03-02 04:28:08.155 [warning] Using default string since no string found in i18n bundle that has the key: Others
+2024-03-02 04:28:08.167 [warning] Using default string since no string found in i18n bundle that has the key: Choose a project file
+2024-03-02 04:28:08.167 [warning] Using default string since no string found in i18n bundle that has the key: No C# or F# project files were found in the workspace.
+2024-03-02 04:28:08.167 [warning] Using default string since no string found in i18n bundle that has the key: Choose a package.json file
+2024-03-02 04:28:08.167 [warning] Using default string since no string found in i18n bundle that has the key: No package.json files were found in the workspace.
+2024-03-02 04:28:08.175 [warning] Using default string since no string found in i18n bundle that has the key: Overwrite File
+2024-03-02 04:28:08.175 [warning] Using default string since no string found in i18n bundle that has the key: Skip File
+2024-03-02 04:28:08.175 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2024-03-02 04:28:08.260 [warning] Using default string since no string found in i18n bundle that has the key: Redis is an open source key-value store that functions as a data structure server.
+2024-03-02 04:28:08.265 [warning] Using default string since no string found in i18n bundle that has the key: Ubuntu is a Debian-based Linux operating system based on free software.
+2024-03-02 04:28:08.265 [warning] Using default string since no string found in i18n bundle that has the key: The WordPress rich content management system can utilize plugins, widgets, and themes.
+2024-03-02 04:28:08.265 [warning] Using default string since no string found in i18n bundle that has the key: MySQL is a widely used, open-source relational database management system (RDBMS).
+2024-03-02 04:28:08.265 [warning] Using default string since no string found in i18n bundle that has the key: MongoDB document databases provide high availability and easy scalability.
+2024-03-02 04:28:08.265 [warning] Using default string since no string found in i18n bundle that has the key: The official build of CentOS.
+2024-03-02 04:28:08.266 [warning] Using default string since no string found in i18n bundle that has the key: Node.js is a JavaScript-based platform for server-side and networking applications.
+2024-03-02 04:28:08.266 [warning] Using default string since no string found in i18n bundle that has the key: Official build of Nginx.
+2024-03-02 04:28:08.266 [warning] Using default string since no string found in i18n bundle that has the key: The PostgreSQL object-relational database system provides reliability and data integrity.
+2024-03-02 04:28:08.266 [warning] Using default string since no string found in i18n bundle that has the key: ASP.NET is an open source server-side Web application framework
+2024-03-02 04:28:08.460 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-11716fd0/vscode.lock': Lock acquired.
+2024-03-02 04:28:09.519 [warning] Using default string since no string found in i18n bundle that has the key: Containers
+2024-03-02 04:28:09.519 [warning] Using default string since no string found in i18n bundle that has the key: Configure containers explorer
+2024-03-02 04:28:09.525 [warning] Using default string since no string found in i18n bundle that has the key: Networks
+2024-03-02 04:28:09.525 [warning] Using default string since no string found in i18n bundle that has the key: Configure networks explorer
+2024-03-02 04:28:09.525 [warning] Using default string since no string found in i18n bundle that has the key: Images
+2024-03-02 04:28:09.525 [warning] Using default string since no string found in i18n bundle that has the key: Configure images explorer
+2024-03-02 04:28:09.525 [warning] Using default string since no string found in i18n bundle that has the key: Sort by image size
+2024-03-02 04:28:09.528 [warning] Using default string since no string found in i18n bundle that has the key: GitHub
+2024-03-02 04:28:09.528 [warning] Using default string since no string found in i18n bundle that has the key: GitHub Container Registry
+2024-03-02 04:28:09.528 [warning] Using default string since no string found in i18n bundle that has the key: Docker Hub
+2024-03-02 04:28:09.529 [warning] Using default string since no string found in i18n bundle that has the key: Azure
+2024-03-02 04:28:09.529 [warning] Using default string since no string found in i18n bundle that has the key: Azure Container Registry
+2024-03-02 04:28:09.529 [warning] Using default string since no string found in i18n bundle that has the key: Generic Registry V2
+2024-03-02 04:28:09.533 [warning] Using default string since no string found in i18n bundle that has the key: Volumes
+2024-03-02 04:28:09.533 [warning] Using default string since no string found in i18n bundle that has the key: Configure volumes explorer
+2024-03-02 04:28:09.534 [warning] Using default string since no string found in i18n bundle that has the key: Contexts
+2024-03-02 04:28:09.534 [warning] Using default string since no string found in i18n bundle that has the key: Configure Docker Contexts Explorer
+2024-03-02 04:28:10.691 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-03-02 04:28:10.694 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-03-02 04:28:23.829 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 04:28:23.834 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 04:28:23.837 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 04:28:23.838 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 04:28:24.287 [info] Eager extensions activated
+2024-03-02 04:28:26.461 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 04:28:26.462 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 04:28:41.673 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2024-03-02 04:28:43.831 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 04:55:34.262 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-03-02 04:58:41.428 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-03-02 04:58:41.428 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-02 05:06:45.490 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2024-03-02 05:43:27.230 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8849
+2024-03-02 05:43:28.753 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8849
+2024-03-02 05:43:31.967 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8849
+2024-03-02 05:43:37.622 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8849

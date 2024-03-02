@@ -1,0 +1,7 @@
+[user]
+	name = at-voice
+	email = maaabel@yahoo.com
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait
